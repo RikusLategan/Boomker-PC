@@ -1,0 +1,11 @@
+Advanced system settings for changing Network names, performance options, restore points, RDP remote desktop etc (aka SYStem Device Manager, System Properties, Change Computer Settings)
+	
+`sysdm.cpl`
+
+Advanced sound settings
+`mmsys.cpl`
+
+Device Manager Help
+`mk:@MSITStore:C:\WINDOWS\help\mui\0409\mmc.chm::/html/06e1cb7b-19c9-4c49-9db8-a941f6f593c3.htm`
+
+.cpl = Control Panel List item (<li>)
